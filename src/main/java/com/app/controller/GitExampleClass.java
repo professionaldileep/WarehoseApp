@@ -6,7 +6,9 @@ public class GitExampleClass {
 		int a=10;
 		double b=20;
 		/* double c=a+b; */
-		return a+b;
+		/* commited by dileep */
+		double c=a+b;
+		return c;
 	}
 
 }
